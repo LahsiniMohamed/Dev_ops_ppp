@@ -1,0 +1,39 @@
+.movieCard{
+    height: 400px;
+    width: 100%;
+    cursor: pointer;
+    position: relative;
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    transition: all 250ms ease-in-out;
+    .movieBadge{
+        display: none ;
+    }
+    
+}
+.movieCard:hover{
+    transform: scale(1.05);
+    border: 5px solid red;
+    z-index: 9;
+    .movieBadge{
+        display: block;
+        animation: badgeSlide 300ms ease-in-out forwards;
+    }
+}
+
+@keyframes badgeSlide {
+    0% {transform: translateY(30px);
+        opacity: 0;
+    }
+    10% {transform: translateY(30px);
+        opacity: 0;
+    }
+
+    100% {transform: translateY(0px);
+        opacity: 1;    
+    }
+
+}

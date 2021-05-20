@@ -1,0 +1,53 @@
+.mainPage{
+    height: 100vh;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .mainPage__header{
+        width: 100%;
+        margin: 50px 0px;
+        display: flex;
+        justify-content: space-around;
+        align-content: center;
+        .mainPage__button{
+            background-color: var(--redMain);
+            border: none;
+            border-radius: 7px;
+            padding: 7px 15px;
+            color: white;
+            font-weight: 700;
+            font-size: 1.1em;
+            font-family: 'Titillium Web', sans-serif;
+            height: max-content;
+
+        }
+    }
+    .mainPage__cards{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .mainPage__headerTitle{
+        display: flex;
+        flex-direction: column;
+    }
+    .mainPage__title{
+        margin: 0;
+        padding: 0;
+        color: var(--redMain);
+        text-align: center;
+        font-size: 1.6em;
+    }
+    .mainPage__sousTitle{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        font-size: 1.4em;
+        color: white;
+        font-family: 'Titillium Web', sans-serif;
+        position: relative;
+        top: -10px;
+    }
+}

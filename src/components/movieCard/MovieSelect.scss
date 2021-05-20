@@ -1,0 +1,18 @@
+.movieSelect{
+    position: relative;
+    margin-bottom: 20px;
+    
+    .movieSelect__image{
+        position: absolute;
+        width: 40%;
+        z-index: 10;
+        left: 0;
+        top: 0;
+        opacity: 0;
+        transition: all 250ms ease-in-out;
+    }
+    .selected{
+        opacity: 1;
+    }
+
+}
