@@ -3,12 +3,21 @@ import './MovieSelect.scss'
 import MovieCard from './MovieCard'
 import selectImage from './images/sssAsset.png'
 
-function MovieSelect({movie_info,image,...props}) {
+function MovieSelect({removeMovie,addMovie,id, movie_info,image,...props}) {
     const [selected,setSelected] = useState(false)
 
     const selectCard = (e)=>{
         setSelected((selected)=>!selected)
+        
     }
+    useEffect(()=>{
+        if (selected){
+            addMovie(id);
+        }
+        if (!selected){
+            removeMovie(id)
+        }
+    },[selected])
     return (
         <div className="movieSelect" onClick={selectCard}>
             <img src={selectImage} alt="selected badge" className={`movieSelect__image ${selected? 'selected' : ''}`}/>
