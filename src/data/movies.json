@@ -1,0 +1,101 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "type": "Movie",
+        "title": "Adrishya",
+        "director": "Jennifer Phang",
+        "cast": "Jacqueline Kim, James Urbaniak, Freya Adams, Ken Jeong, Jennifer Ehle, Samantha Kim, Troi Zee, Olivia Horton, Jennifer Ikeda, Mercedes Griffeth",
+        "country": "India",
+        "date_added" : "6/23/2015",
+        "release_year" : "2015",
+        "rating" : "TV-14",
+        "description" : "In order to keep her job at a biomedical engineering firm that prizes youth, a middle-aged woman must submit to a drastic experimental procedure."
+        
+      },
+      {
+        "id": 2,
+        "type": "Movie",
+        "title": "Gun City",
+        "director": "Dani de la Torre",
+        "cast": "Luis Tosar, Michelle Jenner, Vicente Romero, Manolo Solo, Paco Tous, Adriana Torrebejano, Pep Tosar, Jaime Lorente, Ernesto Alterio, Fernando Cayo",
+        "country": "Spain, France",
+        "date_added" : "6/23/2015",
+        "release_year" : "2015",
+        "rating" : "TV-MA",
+        "description" : "In 1921 Barcelona, amid unrest between anarchists and the police, a cop plays both sides to learn who stole army weapons that could ignite a civil war."
+      },
+      {
+        "id": 3,
+        "type": "Movie",
+        "title": "Avatar",
+        "director": "Dani de la Torre",
+        "cast": "Luis Tosar, Michelle Jenner, Vicente Romero, Manolo Solo, Paco Tous, Adriana Torrebejano, Pep Tosar, Jaime Lorente, Ernesto Alterio, Fernando Cayo",
+        "country": "Spain, France",
+        "date_added" : "6/23/2015",
+        "release_year" : "2015",
+        "rating" : "TV-MA",
+        "description" : "In 1921 Barcelona, amid unrest between anarchists and the police, a cop plays both sides to learn who stole army weapons that could ignite a civil war."
+      },
+      {
+        "id": 4,
+        "type": "Movie",
+        "title": "Avengers",
+        "director": "Dani de la Torre",
+        "cast": "Luis Tosar, Michelle Jenner, Vicente Romero, Manolo Solo, Paco Tous, Adriana Torrebejano, Pep Tosar, Jaime Lorente, Ernesto Alterio, Fernando Cayo",
+        "country": "Spain, France",
+        "date_added" : "6/23/2015",
+        "release_year" : "2015",
+        "rating" : "TV-MA",
+        "description" : "In 1921 Barcelona, amid unrest between anarchists and the police, a cop plays both sides to learn who stole army weapons that could ignite a civil war."
+      },
+      {
+        "id": 1,
+        "type": "Movie",
+        "title": "Adrishya",
+        "director": "Jennifer Phang",
+        "cast": "Jacqueline Kim, James Urbaniak, Freya Adams, Ken Jeong, Jennifer Ehle, Samantha Kim, Troi Zee, Olivia Horton, Jennifer Ikeda, Mercedes Griffeth",
+        "country": "India",
+        "date_added" : "6/23/2015",
+        "release_year" : "2015",
+        "rating" : "TV-14",
+        "description" : "In order to keep her job at a biomedical engineering firm that prizes youth, a middle-aged woman must submit to a drastic experimental procedure."
+      },
+      {
+        "id": 2,
+        "type": "Movie",
+        "title": "Gun City",
+        "director": "Dani de la Torre",
+        "cast": "Luis Tosar, Michelle Jenner, Vicente Romero, Manolo Solo, Paco Tous, Adriana Torrebejano, Pep Tosar, Jaime Lorente, Ernesto Alterio, Fernando Cayo",
+        "country": "Spain, France",
+        "date_added" : "6/23/2015",
+        "release_year" : "2015",
+        "rating" : "TV-MA",
+        "description" : "In 1921 Barcelona, amid unrest between anarchists and the police, a cop plays both sides to learn who stole army weapons that could ignite a civil war."
+      },
+      {
+        "id": 3,
+        "type": "Movie",
+        "title": "Avatar",
+        "director": "Dani de la Torre",
+        "cast": "Luis Tosar, Michelle Jenner, Vicente Romero, Manolo Solo, Paco Tous, Adriana Torrebejano, Pep Tosar, Jaime Lorente, Ernesto Alterio, Fernando Cayo",
+        "country": "Spain, France",
+        "date_added" : "6/23/2015",
+        "release_year" : "2015",
+        "rating" : "TV-MA",
+        "description" : "In 1921 Barcelona, amid unrest between anarchists and the police, a cop plays both sides to learn who stole army weapons that could ignite a civil war."
+      },
+      {
+        "id": 4,
+        "type": "Movie",
+        "title": "Avengers",
+        "director": "Dani de la Torre",
+        "cast": "Luis Tosar, Michelle Jenner, Vicente Romero, Manolo Solo, Paco Tous, Adriana Torrebejano, Pep Tosar, Jaime Lorente, Ernesto Alterio, Fernando Cayo",
+        "country": "Spain, France",
+        "date_added" : "6/23/2015",
+        "release_year" : "2015",
+        "rating" : "TV-MA",
+        "description" : "In 1921 Barcelona, amid unrest between anarchists and the police, a cop plays both sides to learn who stole army weapons that could ignite a civil war."
+      }
+    ]
+  }
